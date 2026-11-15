@@ -1,0 +1,13 @@
+out/
+dist/
+res/
+private/
+*.apk
+*.idsig
+*.keystore
+*.jks
+*.key
+*.pem
+.env*
+__pycache__/
+.DS_Store
